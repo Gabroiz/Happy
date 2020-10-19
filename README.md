@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/capa-happy" />
+    <img alt="Happy" title="Happy" src=".github/capa_happy" />
 </h1>
 
 <p align="center">
