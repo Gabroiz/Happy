@@ -14,7 +14,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=db161d&labelColor=000000&">
   <img alt="Web" src="https://img.shields.io/static/v1?label=Web&message=React&color=15C3D6&labelColor=000000&logo=react">
   <img alt="Server" src="https://img.shields.io/static/v1?label=Server&message=Node.js&color=339933&labelColor=000000&logo=node.js">
-  <img alt="Mobile" src="https://img.shields.io/static/v1?label=Mobile&message=React&nbspnative&color=9700cf&labelColor=000000&logo=react">
+  <img alt="Mobile" src="https://img.shields.io/static/v1?label=Mobile&message=React%20native&color=9700cf&labelColor=000000&logo=react">
   <img alt="TypeScript" src="https://img.shields.io/static/v1?label=Lang&message=TypeScript&color=007ACC&labelColor=000000&logo=typescript">
 </p>
 
